@@ -10,6 +10,13 @@
 
 - 📫 How to reach me **seqqam.rida@gmail.com**
 
+- 🔭 I’m currently exploring various programming languages and frameworks, constantly seeking new challenges and opportunities to grow as a developer.
+
+- 💻 I'm working on application for managing medical records.
+
+- 🤝 I'm always open to exciting projects, collaborations, and discussions. Feel free to reach out to me for any inquiries, feedback, or just to say hi!
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ridaseq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ridaseq" height="30" width="40" /></a>

@@ -8,7 +8,7 @@
 
 - 🌱 I am passionate about **utilizing my technical skills and knowledge**
 
-- 📫 How to reach me **seqqam.rida@gmail.com**
+- 📫 How to reach me **seqqam.rida1@gmail.com**
 
 - 🔭 I’m currently exploring various programming languages and frameworks, constantly seeking new challenges and opportunities to grow as a developer.
 

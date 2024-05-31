@@ -11,15 +11,13 @@
 
 - 🔭 I’m currently exploring various programming languages and frameworks, constantly seeking new challenges and opportunities to grow as a developer.
 
-- 💻 I'm working on application for managing medical records.
-
 - 🤝 I'm always open to exciting projects, collaborations, and discussions. Feel free to reach out to me for any inquiries, feedback, or just to say hi!
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ridaseq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ridaseq" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/rida-seqqam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rida-seqqam-06735a261/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/rida-seqqam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rida-seqqam" height="30" width="40" /></a>
 <a href="https://discord.gg/DarkShadow#7019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DarkShadow#7019" height="30" width="40" /></a>
 </p>
 

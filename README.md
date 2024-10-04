@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rida Seqqam</h1>
-<h3 align="center">A passionate full stack devloper / software engineering student</h3>
+<h3 align="center">A passionate full stack developer / software engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ridaseqqam&label=Profile%20views&color=0e75b6&style=flat" alt="ridaseqqam" /> </p>
 

@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rida Seqqam</h1>
-<h1 align="center"> <img src="https://pasteboard.co/vcyPl7c2J4PV.pngv" alt="ridaseqqam" /></h1>
+<h1 align="center">
+  <img src="https://private-user-images.githubusercontent.com/122315165/422807292-f3384590-c8da-4f08-ade7-829f35763ec3.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE5NTk0OTcsIm5iZiI6MTc0MTk1OTE5NywicGF0aCI6Ii8xMjIzMTUxNjUvNDIyODA3MjkyLWYzMzg0NTkwLWM4ZGEtNGYwOC1hZGU3LTgyOWYzNTc2M2VjMy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMxNFQxMzMzMTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMmZmY2ZiODJlMDBhMjdmNWVkMzRlZWY0OWI5ODYxNTM1N2U5OTNiODdmNzNiYjUyNDA3MDY4MzQ4NjAxMzU4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.IYvgqIssqDJ-49Y73MMyyKnPV-sukDtXk0V6pAWcKjU" width="150">
+</h1>
+
+
 <h3 align="center">A passionate full stack developer / software engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RIDASEQQAM&label=Profile%20views&color=0e75b6&style=flat" alt="ridaseqqam" /> </p>

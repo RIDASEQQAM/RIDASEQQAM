@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rida Seqqam</h1>
 <h1 align="center">
-  <img src="https://i.imgur.com/0ATf2bA.gif" width="150">
+  <img src="https://i.imgur.com/0ATf2bA.gif" width="500" height="500">
 </h1>
+
 
 
 <h3 align="center">A passionate full stack developer / software engineering student</h3>

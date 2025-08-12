@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rida Seqqam</h1>
 <h1 align="center">
-  <img src="https://imgur.com/0ATf2bA" width="150">
+  <img src="https://i.imgur.com/0ATf2bA.gif" width="150">
 </h1>
 
 

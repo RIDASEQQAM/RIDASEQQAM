@@ -5,7 +5,9 @@
 
 
 
-<h3 align="center">A passionate Full Stack Engineer | Java / Spring Boot / Angular </h3>
+<h3 align="center">A Passionate Full Stack Engineer with strong experience in designing and implementing secure web
+and software applications. Proficient in Java, Spring Boot, Angular, ASP.NET, and both relational and
+NoSQL databases.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RIDASEQQAM&label=Profile%20views&color=0e75b6&style=flat" alt="ridaseqqam" /> </p>
 

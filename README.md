@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rida Seqqam</h1>
 <h1 align="center">
-  <img src="https://i.imgur.com/0ATf2bA.gif" width="350" height="350">
+  <img src="https://i.imgur.com/0ATf2bA.gif" width="350" height="350" style="border-radius: 50%;">
 </h1>
+
 
 
 
